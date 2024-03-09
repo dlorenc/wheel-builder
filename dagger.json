@@ -1,0 +1,12 @@
+{
+  "name": "wheelbuilder",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "wolfi",
+      "source": "github.com/shykes/daggerverse/wolfi@19736976f0770a9fefe6ff976cac5dd4212539dc"
+    }
+  ],
+  "source": "dagger",
+  "engineVersion": "v0.10.1"
+}
